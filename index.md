@@ -1,5 +1,8 @@
 ---
 layout: default
+description: >
+    Am 23. September findet im KiKa ein **Thementag Digitalisierung** statt. Die Sendung mit der Maus nimmt den Tag zum Anlass, um eine Web-Anwendung zu veröffentlichen, die Kinder spielerisch an Grundkonzepte des Programmierens heranführt.
+image: /images/logo.png
 ---
 
 # Programmieren mit der Maus

@@ -2,6 +2,16 @@ theme: jekyll-theme-minimal
 
 title: Programmieren mit der Maus - WDR
 description: Spielerisches Erlernen von Programmierkonzepten
+author: Hacking Studio
+lang: de_DE
+twitter:
+  username: studiohacking
+  card: summary
+social:
+  name: Hacking Studio
+  links:
+    - https://twitter.com/StudioHacking
+    - https://github.com/wdr-data
 
 logo: /images/logo.png
 show_downloads: false
