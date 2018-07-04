@@ -23,11 +23,15 @@ Am 23. September findet im KiKa ein **Thementag Digitalisierung** statt. Die Sen
 - Zielgruppe sind Kinder ab der 2. bis zur 6. Klasse (7-12 Jahre, die Kinder sollten kurze Texte lesen können. Jüngere Kinder können die Anwendung mit ihren Eltern nutzen.)
 - Zielausspielung sind Tablets (ab iOS 11) und Desktop-Geräte, auf Smartphones wird die Anwendung nicht nutzbar sein. (Siehe unten).
 
+![Screenshot](images/frame_1.jpg)
+
 ## Umsetzung
 
 - Vorbild und Grundlage ist die grafische Programmiersprache [Scratch](https://scratch.mit.edu) des MIT Lifelong Kindergarden (Flash basiert)
 - Derzeit baut das MIT Version 3 dieser grafischen Programmiersprache. Die neue Anwendung ermöglicht es, Scratch auch auf Tablets zu benutzen. Die Ausspielung für Smartphones ist derzeit nicht Teil des Projektes. Eine Vorschau davon ist hier zu finden: [https://preview.scratch.mit.edu](https://preview.scratch.mit.edu)
 - Scratch ist **Open Source Software**. Deshalb erstellen wir eine WDR-Version von Scratch 3 und passen sie in den Punkten Design, Figuren und Sounds der Sendung mit der Maus an.
+
+![Screenshot](images/frame_2.jpg)
 
 ## Ausblick
 
