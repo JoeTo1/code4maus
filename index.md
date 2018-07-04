@@ -9,7 +9,7 @@ image: /images/logo.png
 
 Am 23. September findet im KiKa ein **Thementag Digitalisierung** statt. Die Sendung mit der Maus nimmt den Tag zum Anlass, um eine Web-Anwendung zu veröffentlichen, die Kinder spielerisch an Grundkonzepte des Programmierens heranführt.
 
-## Warum programmieren für Kinder?
+## Warum Programmieren für Kinder?
 - Technologiegetriebener Wandel bestimmt die gesellschaftliche Entwicklung in großem Maße. Große Teile der Gesellschaft haben aber kaum aktiven Anteil an der Gestaltung dieses Wandels.
 - Um selbst aktiv werden, mitgestalten und auch Kritik üben zu können, ist Programmieren eine Basis-Fähigkeit, an die Kinder früh herangeführt werden sollten. In den USA spricht man von *Coding Literacy*, also Programmieren als Grundfertigkeit wie Lesen oder Rechnen.
 - Besondere Bedeutung hat dabei auch die Mädchen-Förderung, sowie die Förderung anderer bislang in der IT unterrepräsentierter Gruppen.
@@ -33,6 +33,6 @@ Am 23. September findet im KiKa ein **Thementag Digitalisierung** statt. Die Sen
 
 Wir erhoffen uns durch **Programmieren mit der Maus** mehr Kinder spielerisch für das Thema zu begeistern. Dabei ist vor allem wichtig, die selbstbestimmte Mediennutzung zu fördern: *Selbermachen statt konsumieren*.
 
-Auch *Programmieren mit der Maus* wird Open Source sein. Das heißt, dass der Code von Personen, Firmen, Vereinen genutzt, angepasst und weiter entwickelt werden kann. Verfügbar ist der Quelltext hier: [https://github.com/wdr-data/code4maus](https://github.com/wdr-data/code4maus)
+Auch **Programmieren mit der Maus** wird **Open Source** sein. Das heißt, dass der Code von Personen, Firmen, Vereinen genutzt, angepasst und weiter entwickelt werden kann. Verfügbar ist der Quelltext hier: [https://github.com/wdr-data/code4maus](https://github.com/wdr-data/code4maus)
 
 Denkbar ist zum Beispiel Material für Lehrerinnen und Fachkräfte im offenen Ganztag zu entwickeln. Kurse, AGs, Schulclubs für Kinder zum Thema *Programmieren mit der Maus* sind möglich. Scratch veranstaltet auch regelmäßig so genannte *Scratch-Days*, bei denen sich Kinder treffen und ihr Wissen und ihre Projekte austauschen.
