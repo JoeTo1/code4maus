@@ -9,16 +9,16 @@ image: /images/hacking_studio.png
 
 # Programmieren mit der Maus
 
-Am 23. September findet im KiKa ein **Thementag Digitalisierung** statt. Die Sendung mit der Maus nimmt den Tag zum Anlass, um eine Web-Anwendung zu veröffentlichen, die Kinder spielerisch an Grundkonzepte des Programmierens heranführt: 'Programmieren mit der Maus'. Umgesetzt wird das Projekt von uns, dem Hacking Studio. Wir sind eine Gruppe von freien Journalistinnen, Entwicklerinnen und Designerinnen, die inhouse innovative, journalistische Produkte mit agilen Methoden entwickeln. Darunter sind datenjournalistische Formate, Chatbots und Webanwendungen. 
+Am 23. September findet im KiKa ein **Thementag Digitalisierung** statt. Die Sendung mit der Maus nimmt den Tag zum Anlass, um eine Web-Anwendung zu veröffentlichen, die Kinder spielerisch an Grundkonzepte des Programmierens heranführt: 'Programmieren mit der Maus'. Umgesetzt wird das Projekt von uns, dem **Hacking Studio**. Wir sind eine Gruppe von freien Journalistinnen, Entwicklerinnen und Designerinnen, die inhouse innovative, journalistische Produkte mit agilen Methoden entwickeln. Darunter sind datenjournalistische Formate, Chatbots und Webanwendungen. 
 Design und UX für 'Programmieren mit der Maus' entwickeln wir zusammen mit Machbar, der Agentur, die auch die Maus-App gemacht hat.  
+
+![Logo](images/logo.png)
 
 ## Warum Programmieren für Kinder?
 - Technologiegetriebener Wandel bestimmt die gesellschaftliche Entwicklung in großem Maße. Große Teile der Gesellschaft haben aber kaum aktiven Anteil an der Gestaltung dieses Wandels.
 - Um selbst aktiv werden, mitgestalten und auch Kritik üben zu können, ist Programmieren eine Basis-Fähigkeit, an die Kinder früh herangeführt werden sollten. In den USA spricht man von *Coding Literacy*, also Programmieren als Grundfertigkeit wie Lesen oder Rechnen.
 - Besondere Bedeutung hat dabei auch die Mädchen-Förderung, sowie die Förderung anderer bislang in der IT unterrepräsentierter Gruppen.
 - Die BBC zum Beispiel hat 2016 publikumswirksam jedem 7-jährigen Kind den Minicomputer *Micro Bit* geschenkt. Auch andere Fernsehsender haben international schon *Programmieren für Kinder*-Serien gestartet.
-
-![Logo](images/logo.png)
 
 ## Das Projekt
 - Auf der Website **Programmieren mit der Maus** werden Kinder durch 3-5 Lernspiele geführt, bei denen sie grundlegende Programmierkonzepte wie Variablen, Schleifen und Verzweigungen kennen lernen.
